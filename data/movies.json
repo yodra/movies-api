@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "name": "Matrix",
+    "like": false
+  },
+  {
+    "id": "2",
+    "name": "Star Wars",
+    "like": true
+  },
+  {
+    "id": "3",
+    "name": "Memento"
+  }
+]
